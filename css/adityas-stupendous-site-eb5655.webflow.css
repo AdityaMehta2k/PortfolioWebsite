@@ -7801,6 +7801,10 @@ figcaption {
 }
 
 @media screen and (max-width: 479px) {
+  .text-span-101-tjs{
+    font-size: 14.2px;
+  }
+  
   .heading-medium {
     font-size: 17px;
     font-weight: 700;
