@@ -7817,6 +7817,14 @@ figcaption {
   .text-span-101-tjs{
     font-size: 14.2px;
   }
+
+  .text-span-46 {
+  color: #fff;
+  font-size: 13.9px;
+}
+  .text-block-7 {
+      font-size: 13.9px;
+    }
   
   .heading-medium {
     font-size: 17px;
@@ -8380,7 +8388,7 @@ figcaption {
 
   .text-block-4 {
     padding-left: 0;
-    font-size: 14.3px;
+    font-size: 13.9px;
   }
 
   .text-block-4.vibe_concept_txt {
@@ -8443,6 +8451,7 @@ figcaption {
 
   .text-span-14 {
     font-weight: 400;
+    font-size: 13.9px;
   }
 
   .vibe_p2_img {
@@ -8560,6 +8569,7 @@ figcaption {
 
   .text-span-41 {
     color: #b4b4b4;
+    font-size: 13.9px;
   }
 
   .grid {
@@ -8590,6 +8600,7 @@ figcaption {
   .text-span-44 {
     color: #b4b4b4;
     text-align: left;
+    font-size: 13.9px;
   }
 
   .text-block-15 {
@@ -8609,7 +8620,7 @@ figcaption {
   }
 
   .text-block-16 {
-    font-size: 14.3px;
+    font-size: 13.9px;
     line-height: 1.35;
   }
 
@@ -8638,7 +8649,7 @@ figcaption {
   }
 
   .link {
-    font-size: 14.5px;
+    font-size: 13.9px;
   }
 
   .vibe-img_hover {
@@ -8775,7 +8786,7 @@ figcaption {
   }
 
   .text-block-32, .link-5 {
-    font-size: 14.5px;
+    font-size: 13.9px;
   }
 
   .nav1 {
@@ -8811,7 +8822,7 @@ figcaption {
   }
 
   .link-10, .link-11 {
-    font-size: 14.5px;
+    font-size: 13.9px;
   }
 
   .icon-3, .icon-4 {
