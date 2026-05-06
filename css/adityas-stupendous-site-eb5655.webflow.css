@@ -4246,8 +4246,10 @@ figcaption {
   padding-top: 35px;
 }
 
+/* IMPORTANT - the sections below are ordered in accordance to their class names - the spacing is manually adjusted accordingly so if change is needed, change the logos but maintain the order of the classes */
+
 .ntu_img {
-  background-image: url('../images/ntu-logo.png');
+  background-image: url('../images/hexmesh-logo-1.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4255,7 +4257,7 @@ figcaption {
 }
 
 .ntu_img.rac_img {
-  background-image: url('../images/rac_logo.png');
+  background-image: url('../images/cogitate-logo.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4263,7 +4265,7 @@ figcaption {
 }
 
 .nmims_img {
-  background-image: url('../images/Group-3.png');
+  background-image: url('../images/ntu-logo.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4272,7 +4274,7 @@ figcaption {
 }
 
 .nmims_img.cogitate-logo {
-  background-image: url('../images/cogitate-logo.png');
+  background-image: url('../images/Group-3.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
